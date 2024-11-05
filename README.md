@@ -1,5 +1,6 @@
-# DEISI World Meter![deisi world meter](https://github.com/user-attachments/assets/9787619e-9c97-4b4f-9d47-fd608f8da49c)
+# DEISI World Meter
 
+![deisi world meter](https://github.com/user-attachments/assets/a79cb0d3-a603-4310-9878-1f0c6fc83f5d)
 
 ## Descrição do Projeto
 
