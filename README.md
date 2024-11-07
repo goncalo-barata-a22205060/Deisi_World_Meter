@@ -73,15 +73,16 @@ O sistema oferece as seguintes funcionalidades:
 
 Os dados de cidades são carregados a partir de um arquivo CSV com o seguinte formato:
 
-```csv
 alfa2,cidade,regiao,populacao,latitude,longitude
 ad,andorra la vella,07,20430.0,42.5,1.5166667
 ad,canillo,02,3292.0,42.5666667,1.6
 ad,encamp,03,11224.0,42.533333299999995,1.5833333
 
-Para executar o projeto, é necessário:
+## Para executar o projeto, é necessário:
 
 Ter o JDK instalado.
 Compilar as classes Java.
 Executar a classe Main em um ambiente que suporte entrada de linha de comando.
 O projeto espera que os arquivos CSV estejam localizados em um diretório chamado test-files no diretório atual.
+
+
